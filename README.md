@@ -6,7 +6,7 @@ at Youtube： https://www.youtube.com/watch?v=-3XSOKfkdGE
 -----------
 Firstly, you need to install Node.js ,and that is not my business... hahhahahaha
 ------------
-When finish uploading....
+When finish installing....
 
 1.open terminal ,type in : node index.js 
 
